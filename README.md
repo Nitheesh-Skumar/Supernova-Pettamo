@@ -49,6 +49,8 @@ The backend is deployed via netlify functions and astradb is used as the databas
 
 Frontend is deployed to fleek
 
+Fleek brings decentralized web-hosting to the Internet Computer. When you first build a site on the Internet Computer (IC) through Fleek (on the site's first deployment), Fleek will create a new canister on the Internet Computer for you, with the website's content/code/files in it. This is done via the DFINITY SDK (view documentation), as Fleek interacts directly with the networks' native APIs.
+
 <img src="https://github.com/Nitheeshskumar/pettamo-innovaccer/blob/main/readme/schema.png" alt="schema" />
 
 ### Credits
